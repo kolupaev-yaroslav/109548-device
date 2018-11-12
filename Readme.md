@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Yaroslav Kolupaev](https://up.htmlacademy.ru/htmlcss/23/user/109548).
-* Наставник: `Ярослав Шевцов` (https://up.htmlacademy.ru/htmlcss/23/user/170516).
+* Наставник: [Ярослав Шевцов](https://up.htmlacademy.ru/htmlcss/23/user/170516).
 
 ---
 
